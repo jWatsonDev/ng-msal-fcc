@@ -41,6 +41,13 @@ yarn-error.log
 testem.log
 /typings
 
+# Terraform
+/tf-az-infrastructure/.terraform
+/tf-az-infrastructure/.terraform.lock.hcl
+/tf-az-infrastructure/terraform.tfstate
+/tf-az-infrastructure/terraform.tfstate.backup
+
+
 # System Files
 .DS_Store
 Thumbs.db
